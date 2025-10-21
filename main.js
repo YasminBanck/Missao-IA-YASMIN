@@ -108,7 +108,7 @@ function respostaSelecionada(opcaoSelecionada){
 }
 
 function mostraResultado(){
-    caixaPerguntas.textContent = "Se fosse possível ...";
+    caixaPerguntas.textContent = "Se fosse possível pausar o avanço da tecnologia por um instante, talvez pudéssemos entender melhor os impactos que ela causa nas relações humanas, na privacidade e na nossa própria identidade.";
     textoResultado.textContent = historiaFinal;
     caixaAlternativas.textContent = " ";
 }
